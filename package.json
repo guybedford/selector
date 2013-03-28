@@ -3,7 +3,7 @@
   "volo": {
     "type": "directory",
     "dependencies": {
-      "require-is": "guybedford/require-is/master"
+      "require-is": "guybedford/require-is/0.0.1"
     }
   }
 }
